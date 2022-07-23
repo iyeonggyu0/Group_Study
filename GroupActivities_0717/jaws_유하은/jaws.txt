@@ -1,0 +1,13 @@
+ÄÄÆ÷³ÍÆ® Èå¸§
+
+App.js
+   |
+community.js
+   |             |                    |           |               |              |
+header.js      sideIcon.js     section1.js     section2.js     section3.js    footer.js
+   |                                               |              |
+                                                               boxStoryItem.js
+menuItem.js                                    form.js          buttonBar.js
+&hiddenBar.js                                                     |
+   |                                                             button.js
+hiddenBox.js&hiddenItem.js
