@@ -10,3 +10,4 @@
   1.  [이영규님:lolNews](https://github.com/iyeonggyu0/Group_Study/commit/6443e17ab49be763e9331c8bf50fc9b06751071f)
   2.  [유하은님: jaws](https://github.com/iyeonggyu0/Group_Study/tree/main/GroupActivities_0717/jaws_yhe)
   3.  [유환영님: naver](https://github.com/iyeonggyu0/Group_Study/tree/main/GroupActivities_0717/naver_hwanyoung)
+  4.  [표혜민님: pinterest](https://github.com/iyeonggyu0/Group_Study/tree/main/GroupActivities_0717/pinterest_phm)
