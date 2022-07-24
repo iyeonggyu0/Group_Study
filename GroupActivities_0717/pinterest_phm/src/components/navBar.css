@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-size: 16px;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: #000;
+}
+.CreatePin {
+  display: inline-block;
+  margin-top: 1em;
+}
+.searchBarWrap {
+  display: flex;
+  border-radius: 17em;
+  width: 70%;
+  background-color: #efefef;
+  margin: 1em;
+  margin-left: 0;
+}
