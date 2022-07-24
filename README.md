@@ -2,7 +2,7 @@
 
 ## 1. 목차
 
-1. (day01: 컴포넌트 나누어보기)[https://github.com/iyeonggyu0/Group_Study/tree/main/GroupActivities_0717]
+1. [day01: 컴포넌트 나누어보기](https://github.com/iyeonggyu0/Group_Study/tree/main/GroupActivities_0717)
 
 ---
 
