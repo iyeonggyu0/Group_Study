@@ -1,0 +1,11 @@
+.mainWrap {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+}
+
+.main_button {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
